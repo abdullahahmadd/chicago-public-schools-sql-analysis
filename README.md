@@ -91,7 +91,6 @@ This project demonstrates practical SQL-based analysis on a real-world dataset.
 - The workflow concludes with **data visualization** using Matplotlib.  
 - Query results were transformed into clear, interpretable charts that highlight trends, comparisons, and key insights across schools and communities, making the findings more accessible and decision-oriented.
 
----
 
 This end-to-end workflow demonstrates how **PostgreSQL, SQL, Jupyter Notebook and Python** work together to move from raw data ingestion to structured analysis and meaningful visual insights.
 
