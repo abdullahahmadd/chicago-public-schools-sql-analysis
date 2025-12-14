@@ -72,29 +72,20 @@ This project demonstrates practical SQL-based analysis on a real-world dataset.
 - The workflow begins with **PostgreSQL** as the core data storage layer.  
 -  Chicago Public Schools dataset was imported into PostgreSQL, and a structured table schema was created to closely match the raw CSV file. This ensured correct column ordering, appropriate data types, and reliable storage for large-scale analysis.
 
----
-
 2. **Schema Validation & Metadata Exploration**
 -  loading the data, the database schema was **validated using PostgreSQL system catalogs**.  
 - Table existence, column counts, column names, and data types were reviewed through `information_schema` queries to confirm that the dataset was complete and ready for analysis.
-
----
 
 3. **Database Connection via Jupyter Notebook**
 - Once the database layer was verified, the workflow transitioned to **Jupyter Notebook**.  
 - A secure connection between Jupyter Notebook and PostgreSQL was established using SQLAlchemy and `ipython-sql`, allowing SQL queries to be executed interactively while PostgreSQL remained the single source of truth.
 
----
 4. **Analytical SQL Queries**
 - Inside Jupyter Notebook, **analytical SQL queries** were written to explore key educational indicators such as school safety scores, student attendance, enrollment trends, and community-level patterns.  
-
----
 
 5. **Query Results Handling with Pandas**
 - The results of SQL queries were converted into **Pandas DataFrames**.  
 - This step enabled easier inspection, formatting, and preparation of analytical outputs, bridging database querying with Python-based data analysis.
-
----
 
 6. **Visual Insights & Interpretation**
 - The workflow concludes with **data visualization** using Matplotlib.  
