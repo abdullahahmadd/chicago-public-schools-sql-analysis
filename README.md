@@ -2,11 +2,12 @@
 ### 🎓 IBM Data Engineering Specialization – Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.chicago-schools-sql-analysis)
-![Database](https://img.shields.io/badge/Database-Relational-blue)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![Python](https://img.shields.io/badge/Python-Data_Analysis-yellow?logo=python)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-lightgrey?logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Library-Pandas-darkblue?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-lightgrey?logo=plotly&logoColor=white)
 
 ---
 
