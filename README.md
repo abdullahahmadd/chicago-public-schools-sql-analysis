@@ -239,9 +239,9 @@ This section presents the outputs generated across database setup, analytical qu
 | ![College Enrollment Visualization](Results/viz_college_enrollment_by_community.png) |
 | Community-wise comparison of college enrollment distribution. |
 
----
 
-These results collectively demonstrate the **end-to-end analytical workflow**, from PostgreSQL schema validation to SQL-based analysis in Jupyter Notebook and insight-driven visual storytelling.
+
+*These results collectively demonstrate the **end-to-end analytical workflow**, from PostgreSQL schema validation to SQL-based analysis in Jupyter Notebook and insight-driven visual storytelling.*
 
 ---
 
