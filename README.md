@@ -1,4 +1,4 @@
-# 🏫Chicago Public Schools SQL Analysis
+# 🏫 Chicago Public Schools SQL Analysis
 ### 🎓 IBM Data Engineering Specialization – Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.chicago-schools-sql-analysis)
