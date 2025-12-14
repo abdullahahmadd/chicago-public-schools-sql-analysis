@@ -23,9 +23,7 @@
 ---
 
 ## 📘 Overview
-This project focuses on analyzing **Chicago Public Schools data** using SQL to uncover insights related to school safety, attendance, enrollment, and community-level indicators.
-
-PostgreSQL is used as the primary database for structured data storage, while **Jupyter Notebook** enables interactive querying and visualization to support exploratory data analysis and insight generation.
+This project focuses on analyzing **Chicago Public Schools data** using SQL to uncover insights related to school safety, attendance, enrollment, and community-level indicators. PostgreSQL is used as the primary database for structured data storage, while **Jupyter Notebook** enables interactive querying and visualization to support exploratory data analysis and insight generation.
 
 ---
 
