@@ -31,8 +31,7 @@ This project focuses on analyzing **Chicago Public Schools data** using SQL to u
 The objective of this project is to explore and analyze public education data to answer key analytical questions such as:
 
 - How school performance varies across safety and attendance metrics  
-- Which schools and community areas face lower enrollment or attendance  
-- How structured SQL queries support data-driven educational insights  
+- Which schools and community areas face lower enrollment or attendance    
 
 This project demonstrates practical SQL-based analysis on a real-world dataset.
 
