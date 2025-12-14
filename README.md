@@ -38,20 +38,20 @@ This project demonstrates practical SQL-based analysis on a real-world dataset.
 ---
 
 ## 🛠️ Tools & Technologies
-- **PostgreSQL** — relational database for structured data storage  
-- **SQL** — querying, filtering, aggregation, and analysis  
-- **Jupyter Notebook** — interactive data exploration and reporting  
-- **Python** — supporting analysis and visualization  
-
+- **SQL**
+- **Python**
+- **PostgreSQL**   
+- **Jupyter Notebook** 
+  
 ---
 
 ## 📦 Libraries Used
 - **ipython-sql** — execute SQL queries inside Jupyter Notebook  
 - **psycopg2-binary** — PostgreSQL database connectivity  
-- **SQLAlchemy** — database connection management  
-- **Pandas** — tabular data manipulation  
-- **Matplotlib** — data visualization  
+- **SQLAlchemy** — database connection management
 - **PrettyTable** — formatted SQL query output  
+- **Pandas** — tabular data manipulation  
+- **Matplotlib** — data visualization    
 
 ---
 
